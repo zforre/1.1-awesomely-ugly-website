@@ -1,6 +1,6 @@
 body {
-  background-color: yellow;
-  color: purple;
+  background-color: #ffffff;
+  color: #000000;
   text-align: center;
 }
 h1 {
@@ -9,3 +9,12 @@ h1 {
 p {
   font-size: 20px;
 }
+.desc1, .desc2, .desc3{
+  font-size: 15px;
+  color: #000000;
+}
+main> img {
+  width: 600px;
+  text-align: center;
+  border-style: double;
+  }
